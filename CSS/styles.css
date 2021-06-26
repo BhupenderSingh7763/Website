@@ -1,0 +1,182 @@
+body
+{
+  background-color: #F2EDD7;
+  text-align: center;
+  margin: 0;
+}
+
+.name
+{
+  background-color: #A2DBFA;
+  padding: 0;
+  padding-top: 50px;
+  display: inline-block;
+  width: 100%;
+}
+
+.C1
+{
+  width: 25%;
+  position: relative;
+  left: 333px;
+}
+
+.C2
+{
+  width: 25%;
+  display: block;
+  position: relative;
+  left: 200px;
+}
+
+.M
+{
+  width: 66%;
+}
+
+.basic
+{
+  width: 66%;
+  margin: 0 auto;
+}
+
+.basic
+{
+  padding: 50px;
+}
+
+h1
+{
+  font-family: cursive;
+  font-size: 5rem;
+}
+
+h2
+{
+  font-family: sans-serif;
+  font-size: 3rem;
+  color: #C68B59;
+}
+
+h3
+{
+  font-family: sans-serif;
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+h4
+{
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+p
+{
+  color: #3A6351;
+  font-size: 1.5rem;
+}
+
+hr
+{
+  width: 7%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+}
+
+.name
+{
+  color: #5F939A;
+}
+
+.heading
+{
+  color: #558776;
+  padding-top: 50px;
+}
+
+.skills
+{
+  width: 66%;
+  margin: 0 auto;
+  line-height: 1.5;
+  padding-bottom: 50px;
+}
+
+.bat
+{
+  width: 25%;
+  float: left;
+}
+
+.bowl
+{
+  width: 25%;
+  float: left;
+}
+
+.field
+{
+  width: 25%;
+  float: left;
+}
+
+.contact
+{
+  width: 66%;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.contactline
+{
+  color: #3A6351;
+}
+
+.btn
+{
+  background: #86bce0;
+  background-image: -webkit-linear-gradient(top, #86bce0, #386480);
+  background-image: -moz-linear-gradient(top, #86bce0, #386480);
+  background-image: -ms-linear-gradient(top, #86bce0, #386480);
+  background-image: -o-linear-gradient(top, #86bce0, #386480);
+  background-image: linear-gradient(to bottom, #86bce0, #386480);
+  -webkit-border-radius: 12.5;
+  -moz-border-radius: 12.5;
+  border-radius: 12.5px;
+  font-family: Arial;
+  color: #292361;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #135882;
+  background-image: -webkit-linear-gradient(top, #135882, #517a96);
+  background-image: -moz-linear-gradient(top, #135882, #517a96);
+  background-image: -ms-linear-gradient(top, #135882, #517a96);
+  background-image: -o-linear-gradient(top, #135882, #517a96);
+  background-image: linear-gradient(to bottom, #135882, #517a96);
+  text-decoration: none;
+}
+
+.sites
+{
+  padding: 25px;
+  background-color: #B4846C;
+  font-size: 2rem;
+}
+
+.footer-link
+{
+  display: inline-block;
+  width: 166px;
+}
+
+.copyright
+{
+  color: white;
+  font-size: 2.5rem;
+}
